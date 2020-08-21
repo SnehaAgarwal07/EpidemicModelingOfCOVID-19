@@ -10,6 +10,7 @@ Intervention 2:
 delta =1
 
 Counterfactual:
+How would the forecast look like had we practiced stricter control measures?
 
 
 
