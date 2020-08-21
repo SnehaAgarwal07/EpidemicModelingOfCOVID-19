@@ -4,6 +4,12 @@ The MCMC inference algorithm was used to learn the various parameters such as be
 Predicted cases in each of the 3 categories(Susceptible, Infected, Resistant) after intervention on parameters like beta, gamma and delta and also using counterfactuals.
 
 Intervention 1:
-1) In
+delta = 0.1
+
+Intervention 2:
+delta =1
+
+Counterfactual:
+
 
 
